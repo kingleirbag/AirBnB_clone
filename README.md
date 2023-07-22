@@ -1,6 +1,6 @@
 # ALX SE
 
-![HBNB Logo](https://github.com/Adeniyii/AirBnB_clone/blob/ac567ac0aea8e6bccafc650f0389131d5ee06202/assets/hbnb_logo.png)
+![HBNB Logo](https://github.com/kingleirbag/AirBnB_clone/blob/main/web_static/images/hbnb_logo.png)
 
 
 <h1 align="center">AirBnB Clone Project (V1) - The Console<h1>
