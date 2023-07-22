@@ -7,6 +7,7 @@
     border-radius: 4px;
     display: inline-block;
 }
+
 /* Search button style */
 .filters button {
     font-size: 18px;
@@ -33,32 +34,38 @@
     height: 100%;
     width: 25%;
 }
+
 /*locations*/
 .filters .locations {
     border-right: 1px solid #dddddd;
 }
+
 /*location Border */
 .filters .locations:hover,
 .filters .amenities:hover {
- background-color: #fafafa;
+    background-color: #fafafa;
 }
+
 /* Locations and amenities popover menu */
 .filters .popover {
- background-color: #fafafa;
- border: 1px solid #dddddd;
- border-radius: 4px;
- display: none;
- position: absolute;
- width: 100%;
+    background-color: #fafafa;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    display: none;
+    position: absolute;
+    width: 100%;
 }
+
 .filters .locations:hover .popover,
-.filters .amenities:hover .popover{
+.filters .amenities:hover .popover {
     display: block;
 }
+
 .filters .locations ul {
     list-style-type: none;
     margin-top: 0px;
 }
+
 .filters .amenities ul {
     list-style-type: none;
 }
@@ -78,6 +85,7 @@
     font-weight: bold;
     margin: 12px auto 0 20px;
 }
+
 /* Header 3 style */
 .filters h3 {
     font-size: 1.17em;
@@ -85,6 +93,7 @@
     height: 50%;
     padding: 15.5px 0 0 30px;
 }
+
 .filters h4 {
     font-size: 14px;
     font-weight: 400;
