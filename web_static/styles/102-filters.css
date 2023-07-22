@@ -78,20 +78,23 @@
 
 .filters .locations ul {
     padding: 6px 0 6px 0;
-
+    list-style-type: none;
+    margin-top: 0px;
+    margin-left: 40px;
 }
 
 .filters .locations li {
-    margin: 0 auto 12px 3em;
+    list-style-type: none;
+    margin-top: 0px;
 }
 
 .filters .amenities li {
     margin: 12px auto 12px 30px;
 }
 
-/*.filters .amenities ul{
+.filters .amenities ul{
     list-style-type: none;
-}*/
+}
 @media only screen and (max-width: 1000px) {
     .filters {
         width: 95%;

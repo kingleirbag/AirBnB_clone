@@ -78,7 +78,8 @@
 
 .filters .locations ul {
     padding: 6px 0 6px 0;
-
+    list-style-type: none;
+    margin-top: 0px;
 }
 
 .filters .locations li {
@@ -89,9 +90,9 @@
     margin: 12px auto 12px 30px;
 }
 
-/*.filters .amenities ul{
+.filters .amenities ul{
     list-style-type: none;
-}*/
+}
 @media only screen and (max-width: 1000px) {
     .filters {
         width: 95%;
